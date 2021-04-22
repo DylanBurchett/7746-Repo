@@ -1,0 +1,112 @@
+.invisible {
+  visibility: hidden;
+}
+
+#L1 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+}
+
+#L2 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+}
+
+#L3 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+}
+
+#L4 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+}
+
+#L5 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+#L6 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+}
+
+#L7 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+}
+
+#L8 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 80%;
+}
+
+#L9 {
+  font-size: 1em;
+  color: black;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 90%;
+}
+
+.dot {
+  width: 2px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+}
+
+div {
+  background-image: url('https://dylanburchett.github.io/7746-Repo/media/photos/textbackground.png');
+}
+
+body {
+  background-image: url('https://dylanburchett.github.io/7746-Repo/media/photos/textbackground.png');
+	background-color: white;
+}
+
+#background2 {
+	width: 1280px;
+	height: 800px;
+  display: block;
+  background-size: cover;
+  position: absolute;
+  z-index: -1;
+  left: 0%;
+  top: 0%;
+  
+}
