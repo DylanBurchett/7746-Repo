@@ -267,7 +267,7 @@ function randomImage2() {
 // }
 
 function startAll() {
-  alert("hello and welcome to 'mousing around'");
+  //alert("hello and welcome to 'mousing around'");
   Tone.start();
   setInterval(randomImage2, 50);
   //document.querySelector('#but').classList.add('invisible');

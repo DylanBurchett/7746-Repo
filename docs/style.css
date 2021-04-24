@@ -114,8 +114,9 @@ body {
 	width: 1920px;
 	height: 1280px;
   display: block;
-  background-size: cover;
-  background-image:url("https://dylanburchett.github.io/7746-Repo/media/photos/2.jpg");
+/*   background-size: cover; */
+  background-image:url("https://dylanburchett.github.io/7746-Repo/media/photos/titlepage2.png");
+  background-repeat:no-repeat;
   position: absolute;
   z-index: 1;
   left: 0%;
