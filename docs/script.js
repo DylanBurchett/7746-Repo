@@ -260,17 +260,9 @@ function randomImage2() {
 		"url(" + fileNames[randomIndex] + ")";
 }
 
-//setInterval(randomImage2, 50);
-
-// window.onload = function(){//window.addEventListener('load',function(){...}); (for Netscape) and window.attachEvent('onload',function(){...}); (for IE and Opera) also work
-//     alert("hello and welcome to 'mousing around'");
-// }
-
 function startAll() {
-  //alert("hello and welcome to 'mousing around'");
   Tone.start();
   setInterval(randomImage2, 50);
-  //document.querySelector('#but').classList.add('invisible');
   document.querySelector('#startPage').classList.add('invisible');
   onmousemove = function(e){
   var pos = e;
