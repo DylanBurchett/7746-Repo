@@ -108,5 +108,16 @@ body {
   z-index: -1;
   left: 0%;
   top: 0%;
-  
+}
+
+#startPage {
+	width: 1920px;
+	height: 1280px;
+  display: block;
+  background-size: cover;
+  background-image:url("https://dylanburchett.github.io/7746-Repo/media/photos/2.jpg");
+  position: absolute;
+  z-index: 1;
+  left: 0%;
+  top: 0%;
 }
